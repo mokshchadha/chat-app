@@ -1,0 +1,25 @@
+{
+  "name": "chat-app",
+  "version": "1.0.0",
+  "description": "socket io chat app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon chat.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrsalvation/chat-app.git"
+  },
+  "author": "moksh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrsalvation/chat-app/issues"
+  },
+  "homepage": "https://github.com/mrsalvation/chat-app#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7",
+    "socketio": "^1.0.0"
+  }
+}
