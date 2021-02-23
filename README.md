@@ -1,2 +1,3 @@
 # chat-app
-making a simple chat app using socket io
+A minimalistic chat room that let you communicate between multiple clients connected to the server.
+![](images/chatroom.png)
